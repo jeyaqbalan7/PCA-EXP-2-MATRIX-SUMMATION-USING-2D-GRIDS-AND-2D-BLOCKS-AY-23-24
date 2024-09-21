@@ -1,7 +1,7 @@
 # PCA EXP-2 Matrix Summation using 2D Grids and 2D Blocks AY 23 24
 
-### NAME : ADHITHYARAM D
-### REGISTER NO: 212222230008
+### NAME : Jeyabalan T
+### REGISTER NO: 212222240040
 ### EX. NO: 02
 ### DATE: 
 
